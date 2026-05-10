@@ -53,6 +53,6 @@
   - Затем для каждой услуги: Id (int), Name (string), Category (string), Price (decimal), DurationMinutes (int).
 - Чтение – в том же порядке с помощью BinaryReader.
 
-###Тестирование
+### Тестирование
 
 <img width="834" height="944" alt="Image" src="https://github.com/user-attachments/assets/523b9a90-170f-49d5-9188-8729b9fd63c6" />
